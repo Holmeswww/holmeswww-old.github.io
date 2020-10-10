@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+<!-- Education
+====== -->
 * B.S. in Computer Science, Carnegie Mellon University, 2020 (expected)
 
 Research experience
