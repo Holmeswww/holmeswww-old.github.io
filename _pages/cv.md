@@ -62,6 +62,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Awards
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* School of Computer Science Alumni Award for Undergraduate Excellence
+* $2000 award in IBM BlueHack
+* Grand Award in [HackAuton 2018](https://www.hackauton.com/)
+* Builders' Choice and Staff's Choice in [Build18 2018](https://www.build18.org/)
+* Most Entrepreneurial Hack in HackCMU
+* Silver Tier in Halite 2 Competition
