@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science, Carnegie Mellon University, 2020 (expected)
 
-Work experience
+Research experience
 ======
 * Summer 2020: Research Intern
   * Apple Inc.
@@ -28,7 +28,12 @@ Work experience
 * Summer 2018: Research Assistant
   * MultComp Lab.
   * Research: Computer Vision and MultiModal Machine Learning
-  * Supervisor: [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/)
+  * Supervisor: Prof. [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/)
+
+* Fall 2017: Research Assistant
+  * Biorobotics Lab.
+  * Research: Computer Vision and MultiModal Machine Learning
+  * Supervisor: Prof. [Guillaume Sartoretti](https://www.sartoretti.science/) and Prof. [Howie Choset](https://www.cs.cmu.edu/~./choset/)
   
 <!-- Skills
 ======
