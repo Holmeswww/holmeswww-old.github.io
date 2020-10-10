@@ -30,14 +30,14 @@ Work experience
   * Research: Computer Vision and MultiModal Machine Learning
   * Supervisor: [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/)
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
