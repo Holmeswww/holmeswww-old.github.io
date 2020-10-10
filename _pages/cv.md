@@ -15,15 +15,20 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research Intern
+  * Apple Inc.
+  * Research: Offline Reinforcement Learning
+  * Supervisor: Dr. Hanlin Goh and Dr. Joshua Susskind
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Research Assistant
+  * Machine Learning Department.
+  * Research: GAN
+  * Supervisor: Prof. [Zhiting Hu](http://zhiting.ucsd.edu/) and Prof. [Eric Xing](http://www.cs.cmu.edu/~epxing/)
+
+* Summer 2018: Research Assistant
+  * MultComp Lab.
+  * Research: Computer Vision and MultiModal Machine Learning
+  * Supervisor: [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/)
   
 Skills
 ======
