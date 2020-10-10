@@ -67,6 +67,6 @@ Honors and Awards
 * School of Computer Science Alumni Award for Undergraduate Excellence
 * $2000 Award at IBM BlueHack
 * Grand Award at [HackAuton 2018](https://www.hackauton.com/)
-* Builders' Choice and Staff's Choice in [Build18 2018](https://www.build18.org/)
-* Most Entrepreneurial Hack in HackCMU
+* Builders' Choice and Staff's Choice at [Build18 2018](https://www.build18.org/)
+* Most Entrepreneurial Hack at HackCMU
 * Silver Tier at Halite 2 Competition
