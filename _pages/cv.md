@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- Education
 ====== -->
-* B.S. in Computer Science, Carnegie Mellon University, 2020 (expected)
+* B.S. in Computer Science with Minor in Machine Learning, CMU, 2020 (expected)
 
 Research experience
 ======
