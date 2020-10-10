@@ -32,7 +32,7 @@ Research experience
 
 * Fall 2017: Research Assistant
   * Biorobotics Lab.
-  * Research: Computer Vision and MultiModal Machine Learning
+  * Research: Reinforcement Learning for Collaborative Control
   * Supervisor: Prof. [Guillaume Sartoretti](https://www.sartoretti.science/) and Prof. [Howie Choset](https://www.cs.cmu.edu/~./choset/)
   
 <!-- Skills
