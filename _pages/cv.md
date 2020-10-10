@@ -18,7 +18,7 @@ Research experience
 * Summer 2020: Research Intern
   * Apple Inc.
   * Research: Offline Reinforcement Learning
-  * Supervisor: Dr. Hanlin Goh and Dr. Joshua Susskind
+  * Supervisor: Dr. Hanlin Goh and Dr. Joshua M. Susskind
 
 * Summer 2019: Research Assistant
   * Machine Learning Department.
