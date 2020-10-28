@@ -3,7 +3,7 @@ title: "Uncertainty Weighted Offline Reinforcement Learning"
 collection: publications
 permalink: /publication/Offline_RL_Workshop_2020
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-# date: 2020-10-01
+date: 2020
 venue: 'Offline RL Workshop, NeurIPS 2020'
 paperurl: 'https://yuewu.ml/files/Offline_RL_Workshop.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
