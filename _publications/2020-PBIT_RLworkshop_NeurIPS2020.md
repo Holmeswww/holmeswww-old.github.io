@@ -11,7 +11,7 @@ submitted: false
 ---
 [View full text here](https://arxiv.org/pdf/2010.14543.pdf)
 
-<img src="https://www.yuewu.ml/files/paper/demos/PBIT.gif"
+<img src="https://www.yuewu.ml/files/demos/PBIT.gif"
      alt="Figure Illustration"
      style="display:block; margin-left: auto; margin-right: auto; max-width: 1000px" />
 ### Abstract
