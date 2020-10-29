@@ -56,13 +56,7 @@ Research experience
   * Project 1: Asynchronous Reinforcement Learning for collaborative robotic manipulation tasks.
   * Project 2: Asynchronous Reinforcement Learning for collaborative construction.
   * Supervisor: Dr. [Guillaume Sartoretti](https://www.sartoretti.science/) and Dr. [Howie Choset](https://www.cs.cmu.edu/~./choset/)
-  
 
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
 Courseworks
 ======
 * PhD Coursework: Advanced Multi-Modal Machine Learning, Deep Reinforcement Learning & Control, Machine Learning, Probabilistic Graphical Models
