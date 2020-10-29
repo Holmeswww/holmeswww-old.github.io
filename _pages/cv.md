@@ -13,7 +13,7 @@ redirect_from:
 ====== -->
 * B.S. in Computer Science with Minor in Machine Learning, CMU, 2020 (expected)
 
-Research experience
+Work experience
 ======
 * Summer 2020: Research Intern
   * Apple A.I. Research
