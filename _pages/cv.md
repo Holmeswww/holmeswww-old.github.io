@@ -16,7 +16,7 @@ redirect_from:
 Research experience
 ======
 * Summer 2020: Research Intern
-  * Apple Inc.
+  * Apple A.I. Research
   * Research: Offline Reinforcement Learning
   * with Dr. Hanlin Goh and Dr. Joshua M. Susskind
 
