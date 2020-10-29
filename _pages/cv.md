@@ -23,17 +23,17 @@ Research experience
 * Summer 2019: Research Assistant
   * Machine Learning Department.
   * Research: GAN
-  * Supervisor: Prof. [Zhiting Hu](http://zhiting.ucsd.edu/) and Prof. [Eric Xing](http://www.cs.cmu.edu/~epxing/)
+  * Supervisor: Dr. [Zhiting Hu](http://zhiting.ucsd.edu/) and Dr. [Eric Xing](http://www.cs.cmu.edu/~epxing/)
 
 * Summer 2018: Research Assistant
   * MultiComp Lab.
   * Research: Computer Vision and MultiModal Machine Learning
-  * Supervisor: Prof. [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/)
+  * Supervisor: Dr. [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/)
 
 * Fall 2017: Research Assistant
   * Biorobotics Lab.
   * Research: Reinforcement Learning for Collaborative Control
-  * Supervisor: Prof. [Guillaume Sartoretti](https://www.sartoretti.science/) and Prof. [Howie Choset](https://www.cs.cmu.edu/~./choset/)
+  * Supervisor: Dr. [Guillaume Sartoretti](https://www.sartoretti.science/) and Dr. [Howie Choset](https://www.cs.cmu.edu/~./choset/)
   
 <!-- Skills
 ======
