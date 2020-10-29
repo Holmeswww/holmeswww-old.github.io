@@ -13,6 +13,6 @@ submitted: false
 
 <img src="https://github.com/Holmeswww/PPOGAN/raw/master/img/img.png"
      alt="Figure Illustration"
-     style="float: left; margin-right: 10px;" />
+     style="display:block; margin-left: auto; margin-right: auto; max-width: 600px" />
 ### Abstract
 Despite success on a wide range of problems related to vision, generative adversarial networks (GANs) often suffer from inferior performance due to unstable training, especially for text generation. To solve this issue, we propose a new variational GAN training framework which enjoys superior training stability. Our approach is inspired by a connection of GANs and reinforcement learning under a variational perspective. The connection leads to (1) probability ratio clipping that regularizes generator training to prevent excessively large updates, and (2) a sample re-weighting mechanism that improves discriminator training by downplaying bad-quality fake samples. Moreover, our variational GAN framework can provably overcome the training issue in many GANs that an optimal discriminator cannot provide any informative gradient to training generator. By plugging the training approach in diverse state-of-the-art GAN architectures, we obtain significantly improved performance over a range of tasks, including text generation, text style transfer, and image generation.
