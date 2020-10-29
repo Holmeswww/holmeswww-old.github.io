@@ -12,11 +12,10 @@ redirect_from:
 Education
 ======
 * Carnegie Mellon University, Pittsburgh, PA, USA (GPA: 3.71/4.0), Aug 2017 - Dec 2020 (Expected)
-  * B.S. in Computer Science (expected Department Honors and University Honors) (Major GPA 3.91/4.0)
+  * B.S. in Computer Science (Major GPA 3.91/4.0)
   * Minor in Machine Learning (Minor GPA 4.0/4.0)
+  * expected Department Honors and University Honors
   * Alumni Award for Undergraduate Excellence
-  * PhD Coursework: Advanced Multi-Modal Machine Learning, Deep Reinforcement Learning & Control, Machine Learning, Probabilistic Graphical Models
-  * Undergraduate Coursework: Honors Analysis, Vector Analysis, Parallel Architecture & Programs, Algorithms, Com- puter Systems, Theoretical Computer Science
 
 Publications
 ======
@@ -64,6 +63,10 @@ Research experience
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
+Courseworks
+======
+* PhD Coursework: Advanced Multi-Modal Machine Learning, Deep Reinforcement Learning & Control, Machine Learning, Probabilistic Graphical Models
+* Undergraduate Coursework: Honors Analysis, Vector Analysis, Parallel Architecture & Programs, Algorithms, Com- puter Systems, Theoretical Computer Science
   
 Teaching
 ======
