@@ -6,7 +6,7 @@ excerpt: 'GAN formulation through variational inference and constrained reinforc
 date: 2020-12-12
 venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/pdf/2006.06900.pdf'
-# published: true
+submitted: false
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 [View full text here](https://arxiv.org/pdf/2006.06900.pdf)
