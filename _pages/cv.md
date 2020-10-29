@@ -9,17 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Education
-====== -->
-* B.S. in Computer Science with Minor in Machine Learning, CMU, 2020 (expected)
-<!-- Skills
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Carnegie Mellon University, Pittsburgh, PA, USA (GPA: 3.71/4.0), Aug 2017 - Dec 2020 (Expected)
+  * B.S. in Computer Science (expected Department Honors and University Honors) (Major GPA 3.91/4.0)
+  * Minor in Machine Learning (Minor GPA 4.0/4.0)
+  * Alumni Award for Undergraduate Excellence
+  * PhD Coursework: Advanced Multi-Modal Machine Learning, Deep Reinforcement Learning & Control, Machine Learning, Probabilistic Graphical Models
+  * Undergraduate Coursework: Honors Analysis, Vector Analysis, Parallel Architecture & Programs, Algorithms, Com- puter Systems, Theoretical Computer Science
 
 Publications
 ======
