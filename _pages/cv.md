@@ -26,7 +26,7 @@ Research experience
   * Supervisor: Prof. [Zhiting Hu](http://zhiting.ucsd.edu/) and Prof. [Eric Xing](http://www.cs.cmu.edu/~epxing/)
 
 * Summer 2018: Research Assistant
-  * MultComp Lab.
+  * MultiComp Lab.
   * Research: Computer Vision and MultiModal Machine Learning
   * Supervisor: Prof. [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/)
 
