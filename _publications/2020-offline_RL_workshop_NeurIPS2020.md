@@ -1,8 +1,8 @@
 ---
 title: "Uncertainty Weighted Offline Reinforcement Learning"
 collection: publications
-permalink: /publication/Offline_RL_Workshop_2020
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/UWAC
+excerpt: 'Uncertainty estimation to stabilize actor-critic based offline reinforcement learning.'
 date: 2020-12-12
 venue: 'Offline RL Workshop, NeurIPS'
 paperurl: 'https://www.yuewu.ml/files/Offline_RL_Workshop.pdf'
