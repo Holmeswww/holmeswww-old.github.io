@@ -20,5 +20,6 @@ Status
 
 News
 ======
+- [2020] [Uncertainty Weighted Offline Reinforcement Learning](https://www.yuewu.ml/publication/UWAC) accepted by *Offline RL Workshop at NeurIPS 2020*
 - [2020] [Improving GAN Training with Probability Ratio Clipping and Sample Reweighting](https://arxiv.org/abs/2006.06900) accepted by *NeurIPS 2020*
 - [2020] My thesis was awarded the *School of Computer Science Alumni Award for Undergraduate Excellence*
