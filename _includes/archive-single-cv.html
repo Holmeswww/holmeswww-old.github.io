@@ -26,7 +26,7 @@
           alt="">
       </div>
     {% endif %}
-    <h3 class="archive__item-title" itemprop="headline">
+    <p class="archive__item-title">
       {% if post.collection  == 'publications' %}
         {{ post.authors }}
       {% endif %}
@@ -42,11 +42,11 @@
         Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
         {% endif %}
       {% endif %}
-    </h3>
+    </p>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+    <!-- {% if post.venue%} <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %} -->
     </li>
  </article>
 </div>
