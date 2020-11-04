@@ -40,6 +40,10 @@
         {% endif %}
       {% endif %}
     </h2>
+    {% if post.collection == 'publications' %}
+      <p class="archive__item-author">{{ post.authors | replace: "Yue Wu", "<b>Yue Wu</b>" }}</p>
+    {% endif %}
+
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
