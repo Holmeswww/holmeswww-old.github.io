@@ -5,6 +5,7 @@ permalink: /publication/ICCSIP2016
 excerpt: 'Deep residual Fully Convolutional Network for car license plate recognition.'
 date: 2016-12-10
 venue: 'International Conference on Cognitive Systems and Signal Processing (ICCSIP)'
+authors: 'Yue Wu, Jianmin Li'
 submitted: false
 ---
 ### Abstract

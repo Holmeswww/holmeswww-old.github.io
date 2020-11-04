@@ -6,6 +6,8 @@ excerpt: 'Policy based unsupervised domain transfer framework for visual navigat
 date: 2020-12-12
 venue: 'Deep RL Workshop, NeurIPS'
 paperurl: 'https://arxiv.org/pdf/2010.14543.pdf'
+authors: 'Shangda Li*, Devendra Singh Chaplot*, Yao-Hung Tsai, Yue Wu, Louis-Philippe Morency, Ruslan Salakhutdinov'
+img: 'https://www.yuewu.ml/files/demos/PBIT.gif'
 submitted: false
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---

@@ -6,6 +6,8 @@ excerpt: 'Uncertainty estimation to stabilize actor-critic based offline reinfor
 date: 2020-12-12
 venue: 'Offline RL Workshop, NeurIPS'
 paperurl: 'https://www.yuewu.ml/files/paper/Offline_RL_Workshop.pdf'
+authors: 'Yue Wu, Shuangfei Zhai, Nitish Srivastava, Joshua M. Susskind, Jian Zhang, Ruslan Salakhutdinov, Hanlin Goh'
+img: 'https://www.yuewu.ml/files/demos/UWAC.gif'
 submitted: false
 ---
 [View full text here](https://www.yuewu.ml/files/paper/Offline_RL_Workshop.pdf)
