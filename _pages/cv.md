@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+I am interested in generalizable, interpretable, and scalable Machine Learning often involving Deep Learning. I care about developing practically impactful algorithms or frameworks, while at the same time understanding why it works and formalizing its limitations. I am particularly excited about mathematically formalizing knowledge/learning, particularly for Computer Vision, Reinforcement Learning, Generative Models, and Self-supervised Learning. My long-term research goal is to formalize or understand the notion of abstraction in machine learning.
 
 Education
 ======
