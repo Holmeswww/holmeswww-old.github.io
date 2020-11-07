@@ -1,4 +1,6 @@
 <!-- start custom footer snippets -->
 <!-- <a href="/sitemap/">Sitemap</a> -->
-<p>*: indicating equal contribution or alphabetic ordering.</p>
+{% if page.title == "CV" or page.title == "Yue Wu" or page.title == "Research and Publications"%}
+<p>*: equal contribution.</p>
+{% endif %}
 <!-- end custom footer snippets -->
