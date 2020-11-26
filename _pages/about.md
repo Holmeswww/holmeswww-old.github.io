@@ -23,6 +23,7 @@ News
 ======
 - [2020] [Uncertainty Weighted Offline Reinforcement Learning](https://www.yuewu.ml/publication/UWAC) accepted by *Offline RL Workshop at NeurIPS 2020*
 - [2020] [Improving GAN Training with Probability Ratio Clipping and Sample Reweighting](https://arxiv.org/abs/2006.06900) accepted by *NeurIPS 2020*
+- [2020] [Self-supervised Learning from a Multi-view Perspective](https://www.yuewu.ml/publication/ssl-from-multiview) accepted by *SSL Workshop at NeurIPS 2020*
 - [2020] My thesis was awarded the [*School of Computer Science Alumni Award for Undergraduate Excellence*](https://scsdean.cs.cmu.edu/alerts/daily_comms/2020.05.15_scs-today.pdf)
 
 Publications
