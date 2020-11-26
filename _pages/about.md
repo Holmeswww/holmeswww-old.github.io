@@ -17,7 +17,7 @@ I have done research in [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.ph
 Status
 ======
 - I am actively applying for P.h.D. programs. 
-- I will be graduating from CMU at Dec 2020 and joinning [Apple Inc.](https://machinelearning.apple.com/) as a research intern until summer 2021.
+- I will be graduating from CMU in December 2020 and joinning [Apple Inc.](https://machinelearning.apple.com/) as a research intern until summer 2021.
 
 News
 ======
