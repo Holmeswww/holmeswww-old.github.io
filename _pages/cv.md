@@ -12,10 +12,10 @@ I am interested in generalizable, interpretable, and scalable Machine Learning o
 
 Education
 ======
-* Carnegie Mellon University, Pittsburgh, PA, USA (GPA: 3.71/4.0), Aug 2017 - Dec 2020 (Expected)
+* Carnegie Mellon University, Pittsburgh, PA, USA (GPA: 3.71/4.0), Aug 2017 - Dec 2020
   * B.S. in Computer Science (Major GPA 3.91/4.0)
   * Minor in Machine Learning (Minor GPA 4.0/4.0)
-  * expected Department Honors and University Honors
+  * Department Honors and University Honors
   * Alumni Award for Undergraduate Excellence
 
 Publications
