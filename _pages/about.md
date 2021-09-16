@@ -15,7 +15,7 @@ During my undergraduate at CMU, I have done research in [Biorobotics Lab](http:/
 
 Status
 ======
-- I am working at [Apple Inc.](https://machinelearning.apple.com/) as a research intern until summer 2021.
+- I am seeking internship for Summer 2022
 
 News
 ======
