@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-I am interested in reinforcement learning informed by natural language. My long-term research goal is to enable RL agents to benefit from human written guides or manuals.
+I have experience in Computer Vision, Reinforcement Learning, Generative Models, Sequence Modelling, and Self-supervised Learning. I am interested in reinforcement learning informed by natural language. My long-term research goal is to enable RL agents to benefit from human written guides or manuals.
 
 Education
 ======
