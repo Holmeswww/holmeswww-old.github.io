@@ -8,10 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-I am interested in generalizable, interpretable, and scalable Machine Learning often involving Deep Learning. I care about developing practically impactful algorithms or frameworks, while at the same time understanding why it works and formalizing its limitations. I am particularly excited about mathematically formalizing knowledge/learning, particularly for Computer Vision, Reinforcement Learning, Generative Models, and Self-supervised Learning. My long-term research goal is to formalize or understand the notion of abstraction in machine learning.
+I am interested in reinforcement learning informed by natural language. My long-term research goal is to enable RL agents to benefit from human written guides or manuals.
 
 Education
 ======
+* Carnegie Mellon University, Pittsburgh, PA, USA, Aug 2021 - Currently Enrolled
+  * PhD in Machine Learning
+  * Advisor: Dr. [Tom Mitchell](http://www.cs.cmu.edu/~tom/)
 * Carnegie Mellon University, Pittsburgh, PA, USA (GPA: 3.71/4.0), Aug 2017 - Dec 2020
   * B.S. in Computer Science (Major GPA 3.91/4.0)
   * Minor in Machine Learning (Minor GPA 4.0/4.0)

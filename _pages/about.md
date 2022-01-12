@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am interested in generalizable, interpretable, and scalable Machine Learning often involving Deep Learning. I care about developing practically impactful algorithms or frameworks, while at the same time understanding why it works and formalizing its limitations. I am particularly excited about mathematically formalizing knowledge/learning, particularly for Computer Vision, Reinforcement Learning, Generative Models, and Self-supervised Learning. My long-term research goal is to formalize or understand the notion of abstraction in machine learning.
+I am a PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), currently working with Dr. [Tom Mitchell](http://www.cs.cmu.edu/~tom/). I am interested in reinforcement learning informed by natural language. My long-term research goal is to enable RL agents to benefit from human written guides or manuals.
 
 
 During my undergraduate at CMU, I have done research in [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) under Dr. [Howie Choset](https://www.cs.cmu.edu/~./choset/) and [MultiComp Lab](http://multicomp.cs.cmu.edu/) under Dr. [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/). Recently, I completed my undergraduate thesis on GANs under the supervision of Dr. [Zhiting Hu](http://zhiting.ucsd.edu/) and Dr. [Eric Xing](http://www.cs.cmu.edu/~epxing/). Currently, I'm working with Dr. [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) on sequence generative models in collaboration with [Apple Inc.](https://machinelearning.apple.com/)
 
 Status
 ======
-- I am seeking internship for Summer 2022
+- I will be joining [IBM Research](https://research.ibm.com/) for Summer 2022
 
 News
 ======
