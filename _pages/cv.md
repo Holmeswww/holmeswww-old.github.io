@@ -14,7 +14,7 @@ Education
 ======
 * Carnegie Mellon University, Pittsburgh, PA, USA, Aug 2021 - Currently Enrolled
   * PhD in Machine Learning
-  * Advisor: Dr. [Tom Mitchell](http://www.cs.cmu.edu/~tom/)
+  * Advisor: Dr. [Tom Mitchell](http://www.cs.cmu.edu/~tom/), Dr. [Yuanzhi Li](https://www.andrew.cmu.edu/user/yuanzhil/)
 * Carnegie Mellon University, Pittsburgh, PA, USA (GPA: 3.71/4.0), Aug 2017 - Dec 2020
   * B.S. in Computer Science (Major GPA 3.91/4.0)
   * Minor in Machine Learning (Minor GPA 4.0/4.0)
@@ -29,7 +29,13 @@ Publications
 
 Research experience
 ======
-* Fall 2020: Research Assistant
+
+* Summer 2022: Research Intern
+  * IBM Research
+  * Project: Recommender systems for long texts. Interactive, user-defined recommendation systems.
+  * with Yuya Ong and Dr. Taiga Nakamura
+
+* Jan 2021 - Aug 2021: Research Assistant
   * Machine Learning Department (in collaboration with Apple A.I. Research)
   * Research: Offline RL and Energy Based Models formulation for sequence generation.
   * with Dr. [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/) and Dr. Joshua M. Susskind
