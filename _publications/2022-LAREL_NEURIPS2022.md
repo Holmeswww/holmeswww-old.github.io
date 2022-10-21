@@ -7,7 +7,7 @@ date: 2022-09-30
 venue: 'Language and Reinforcement Learning Workshop, NeurIPS'
 paperurl: 'https://openreview.net/pdf?id=AqkPRUZ-YkO'
 authors: 'Yue Wu, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Shrimai Prabhumoye'
-img: 'https://alfworld.github.io/images/butler_pipeline.png'
+# img: 'https://alfworld.github.io/images/butler_pipeline.png'
 submitted: false
 ---
 [View full text here](https://openreview.net/pdf?id=AqkPRUZ-YkO)
