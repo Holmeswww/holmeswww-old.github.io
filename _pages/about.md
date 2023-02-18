@@ -22,7 +22,3 @@ Status
 News
 ======
 - [2022] [Tackling AlfWorld with Action Attention and Common Sense from Pretrained LMs](https://openreview.net/pdf?id=AqkPRUZ-YkO) accepted by *Language and Reinforcement Learning Workshop at NeurIPS 2022*
-<!-- - [2021] [Uncertainty Weighted Offline Reinforcement Learning](https://www.yuewu.ml/publication/UWAC) accepted by *ICML 2021* (short talk)
-- [2020] [Self-supervised Learning from a Multi-view Perspective](https://www.yuewu.ml/publication/ssl-from-multiview) accepted by *ICLR 2021*
-- [2020] [Improving GAN Training with Probability Ratio Clipping and Sample Reweighting](https://arxiv.org/abs/2006.06900) accepted by *NeurIPS 2020*
-- [2020] My thesis was awarded the [*School of Computer Science Alumni Award for Undergraduate Excellence*](https://scsdean.cs.cmu.edu/alerts/daily_comms/2020.05.15_scs-today.pdf) -->
